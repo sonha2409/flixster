@@ -48,7 +48,7 @@ I found the crawling image part challenging, and I ended up using AlamoFireImage
 
 ## License
 
-    Copyright [2003] [Son Ha]
+    Copyright [2023] [Son Ha and CodePath]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.

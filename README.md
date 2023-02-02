@@ -44,7 +44,7 @@ GIF created with Loom
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I found the crawling image part challenging, and I ended up using AlamoFireImage to handle it, as I learned in this class in the Spring 2022 version.
 
 ## License
 

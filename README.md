@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/53a8e61d56ae4e0289e12b9c5a852721-with-play.gif">
+<div style="position: relative; padding-bottom: NaN%; height: 0;"><iframe src="https://www.loom.com/embed/53a8e61d56ae4e0289e12b9c5a852721" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
 
